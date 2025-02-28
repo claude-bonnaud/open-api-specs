@@ -4,7 +4,7 @@ info:
   description: Retrieve a sorted list of transactions, search and filter
     transaction lists, export transactions, and add notes to individual
     transactions.
-  version: 2.7.0
+  version: 2.7.1
   x-icon: local_atm
   x-deprecated: false
   x-api-dashboard-tags:
